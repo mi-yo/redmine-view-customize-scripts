@@ -1,5 +1,5 @@
 /*
-Path pattern: .*
+Path pattern: /gantt$
 Type: JavaScript
 Apply date to gantt menu link.
 */
